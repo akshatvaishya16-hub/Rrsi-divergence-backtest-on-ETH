@@ -147,15 +147,6 @@ rsi-divergence-backtest/
 
 ---
 
-## 🔍 What's Intentionally Not Disclosed
-
-This repository shares full backtest results, institutional ratios, trade-level data, and methodology — but keeps the following proprietary:
-
-- Exact entry trigger logic
-- RSI threshold parameters
-- Swing detection lookback values used in signal generation
-- Any Pine Script or live implementation code
-
 ---
 
 ## 🛠️ Methodology Notes
@@ -177,7 +168,7 @@ Servicing Citadel across equities, derivatives, fixed income, and crypto/digital
 Previously: Senior Analyst, Global Custody Reconciliation, eClerx (Goldman Sachs client)  
 Education: BAF, Pillai's College, Mumbai University
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://linkedin.com/in/akshat-vaishya)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://linkedin.com/in/akshat-vaishya-85371a219)
 [![GitHub](https://img.shields.io/badge/GitHub-Follow-black?style=flat&logo=github)](https://github.com/akshatvaishya16-hub)
 
 ---
